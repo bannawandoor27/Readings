@@ -1,3 +1,4 @@
 https://medium.com/@anshita.bhasin/exploring-amazon-prime-videos-architecture-migrating-from-microservices-to-monolith-for-aacbf9fabc73
 https://nakabonne.dev/posts/depth-of-module/ 
 https://www.unite.ai/code-embedding-a-comprehensive-guide/
+https://www.biblegateway.com/passage/?search=John%208%3A7&version=NIV
