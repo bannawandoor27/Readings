@@ -2,3 +2,4 @@ https://medium.com/@anshita.bhasin/exploring-amazon-prime-videos-architecture-mi
 https://nakabonne.dev/posts/depth-of-module/ 
 https://www.unite.ai/code-embedding-a-comprehensive-guide/
 https://www.biblegateway.com/passage/?search=John%208%3A7&version=NIV
+https://huggingface.co/blog/tegridydev/open-source-ai-agents-directory
