@@ -4,4 +4,7 @@ https://www.unite.ai/code-embedding-a-comprehensive-guide/
 https://www.biblegateway.com/passage/?search=John%208%3A7&version=NIV
 https://huggingface.co/blog/tegridydev/open-source-ai-agents-directory
 https://www.pinecone.io/learn/series/faiss/hnsw/
-https://changelog.langchain.com/announcements/mcp-adapters-for-langchain-and-langgraph
+
+test
+test-1
+test-2
